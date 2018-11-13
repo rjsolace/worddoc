@@ -1,5 +1,7 @@
 exit
 
+dfhhjdevhjbvdvgwhdvkjew 
+
 set-location $env:USERPROFILE\github\worddoc
 
 $NuGetApiKey = $NuGetApiKey
